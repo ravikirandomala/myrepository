@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71963" started-at="2019-09-22T20:31:00 IST" finished-at="2019-09-22T20:32:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71963" started-at="2019-09-22T20:31:00 IST" finished-at="2019-09-22T20:32:12 IST">
+      <class name="com.invisalignstaging.qa.testPages.SmileAssessmentPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.invisalignstaging.qa.testPages.SmileAssessmentPageTest@68bbe345]" name="setUp" is-config="true" duration-ms="41048" started-at="2019-09-22T20:31:00 IST" finished-at="2019-09-22T20:31:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifysmileassessmentteenfunctionalityTest()[pri:2, instance:com.invisalignstaging.qa.testPages.SmileAssessmentPageTest@68bbe345]" name="verifysmileassessmentteenfunctionalityTest" duration-ms="23066" started-at="2019-09-22T20:31:41 IST" finished-at="2019-09-22T20:32:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysmileassessmentteenfunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.invisalignstaging.qa.testPages.SmileAssessmentPageTest@68bbe345]" name="tearDown" is-config="true" duration-ms="7761" started-at="2019-09-22T20:32:04 IST" finished-at="2019-09-22T20:32:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.invisalignstaging.qa.testPages.SmileAssessmentPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

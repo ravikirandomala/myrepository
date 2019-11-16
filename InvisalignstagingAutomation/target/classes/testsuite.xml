@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyInvisalign Staging Automation Suite"><!--   thread-count="2" parallel="methods"-->
+	<test name= "MyInvisalign Staging Test Cases">
+		<classes>
+			<class name="com.invisalignstaging.qa.testPages.HomePageTest"></class>
+			<class name="com.invisalignstaging.qa.testPages.MyInvisalignappPageTest"></class>
+			<class name="com.invisalignstaging.qa.testPages.SmileAssessmentPageTest"></class>
+		</classes>
+	</test>
+</suite>
