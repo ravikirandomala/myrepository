@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Wallet Hub Application Test Automation Test Suite">
+
+<!--  	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>-->
+
+
+	<test name="Wallet Hub App Test Cases">
+		<classes>
+			<class name="com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest"></class>
+			<class name="com.qa.wallethub.automation.writereview.assignment.testPages.ReviewSubmissionPageTest"></class>
+			<class name="com.qa.wallethub.automation.writereview.assignment.testPages.JoinWalletHubPageTest"></class>
+			<class name="com.qa.wallethub.automation.writereview.assignment.testPages.ProfilePageTest"></class>
+
+		</classes>
+	</test>
+</suite>

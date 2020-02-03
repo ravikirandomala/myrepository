@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Wallet Hub Application Test Automation Test Suite" duration-ms="104270" started-at="2020-02-03T02:54:57Z" finished-at="2020-02-03T02:56:41Z">
+    <groups>
+    </groups>
+    <test name="Wallet Hub App Test Cases" duration-ms="104270" started-at="2020-02-03T02:54:57Z" finished-at="2020-02-03T02:56:41Z">
+      <class name="com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest@3b6eb2ec]" name="setUp" is-config="true" duration-ms="11984" started-at="2020-02-03T08:24:57Z" finished-at="2020-02-03T08:25:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLandingPageTest()[pri:1, instance:com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest@3b6eb2ec]" name="verifyLandingPageTest" duration-ms="58" started-at="2020-02-03T08:25:09Z" description="Scenario to verify whether the user is landed on correct page by verifying the title" finished-at="2020-02-03T08:25:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest@3b6eb2ec]" name="tearDown" is-config="true" duration-ms="6035" started-at="2020-02-03T08:25:09Z" finished-at="2020-02-03T08:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest@3b6eb2ec]" name="setUp" is-config="true" duration-ms="9155" started-at="2020-02-03T08:25:15Z" finished-at="2020-02-03T08:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyWriteaReviewbuttonfunctionalityTest()[pri:2, instance:com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest@3b6eb2ec]" name="verifyWriteaReviewbuttonfunctionalityTest" duration-ms="289" started-at="2020-02-03T08:25:24Z" description="Scenario to verify whether the user is navigated to the Review Submission page on selecting Write a Review button" finished-at="2020-02-03T08:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWriteaReviewbuttonfunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest@3b6eb2ec]" name="tearDown" is-config="true" duration-ms="5946" started-at="2020-02-03T08:25:24Z" finished-at="2020-02-03T08:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.wallethub.automation.writereview.assignment.testPages.LandingPageTest -->
+      <class name="com.qa.wallethub.automation.writereview.assignment.testPages.ReviewSubmissionPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.ReviewSubmissionPageTest@1e643faf]" name="setUp" is-config="true" duration-ms="8779" started-at="2020-02-03T08:25:30Z" finished-at="2020-02-03T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyReviewSubmissionfunctionalityTest()[pri:1, instance:com.qa.wallethub.automation.writereview.assignment.testPages.ReviewSubmissionPageTest@1e643faf]" name="verifyReviewSubmissionfunctionalityTest" duration-ms="5406" started-at="2020-02-03T08:25:39Z" description="Scenario to verify whether the user is navigated to Join WalletHub page on successful submission of a review" finished-at="2020-02-03T08:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReviewSubmissionfunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.ReviewSubmissionPageTest@1e643faf]" name="tearDown" is-config="true" duration-ms="5929" started-at="2020-02-03T08:25:45Z" finished-at="2020-02-03T08:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.wallethub.automation.writereview.assignment.testPages.ReviewSubmissionPageTest -->
+      <class name="com.qa.wallethub.automation.writereview.assignment.testPages.JoinWalletHubPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.JoinWalletHubPageTest@6e8dacdf]" name="setUp" is-config="true" duration-ms="7665" started-at="2020-02-03T08:25:50Z" finished-at="2020-02-03T08:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginfunctionalityTest()[pri:1, instance:com.qa.wallethub.automation.writereview.assignment.testPages.JoinWalletHubPageTest@6e8dacdf]" name="verifyLoginfunctionalityTest" duration-ms="10297" started-at="2020-02-03T08:25:58Z" description="Scenario to verify whether the user is navigated to profile page after successful login" finished-at="2020-02-03T08:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginfunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.JoinWalletHubPageTest@6e8dacdf]" name="tearDown" is-config="true" duration-ms="6018" started-at="2020-02-03T08:26:08Z" finished-at="2020-02-03T08:26:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.wallethub.automation.writereview.assignment.testPages.JoinWalletHubPageTest -->
+      <class name="com.qa.wallethub.automation.writereview.assignment.testPages.ProfilePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.ProfilePageTest@7a79be86]" name="setUp" is-config="true" duration-ms="7152" started-at="2020-02-03T08:26:14Z" finished-at="2020-02-03T08:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyReviewRatingfunctionalityTest()[pri:1, instance:com.qa.wallethub.automation.writereview.assignment.testPages.ProfilePageTest@7a79be86]" name="verifyReviewRatingfunctionalityTest" duration-ms="13574" started-at="2020-02-03T08:26:22Z" description="Scenario to verify whether the given rating is updated in profile page" finished-at="2020-02-03T08:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReviewRatingfunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.wallethub.automation.writereview.assignment.testPages.ProfilePageTest@7a79be86]" name="tearDown" is-config="true" duration-ms="5961" started-at="2020-02-03T08:26:35Z" finished-at="2020-02-03T08:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.wallethub.automation.writereview.assignment.testPages.ProfilePageTest -->
+    </test> <!-- Wallet Hub App Test Cases -->
+  </suite> <!-- Wallet Hub Application Test Automation Test Suite -->
+</testng-results>
