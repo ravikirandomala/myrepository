@@ -1,0 +1,7 @@
+browser = FireFox
+
+URL = https://www.facebook.com/
+
+username = 7989971132
+password = Test@1234
+Message = Hello World
